@@ -1,0 +1,6 @@
+m1=int(input("Enter marks for first subject: "))
+m2=int(input("Enter marks for second subject: "))
+m3=int(input("Enter marks for third subject: "))
+m4=int(input("Enter marks for fourth subject: "))
+m5=int(input("Enter marks for fifth subject: "))
+print("Average percentage is" , (m1+m2+m3+m4+m5)/5 , "%.")
